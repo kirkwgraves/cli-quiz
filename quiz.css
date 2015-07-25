@@ -1,0 +1,24 @@
+* {
+	font-family: Arial, sans-serif;
+}
+
+section {
+	font-family: Tahoma, Verdana, sans-serif;
+}
+
+body {
+	width: 65%;
+}
+
+aside{
+  float: right;
+  width: 30%;
+}
+
+.stern-fave {
+  color: red;
+}
+
+.volkman-fave {
+  color: blue;
+}
